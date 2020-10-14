@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "korzinka51eb5447": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
